@@ -1,1 +1,0 @@
-﻿20180411 14:59:38.8525 9 73 Information ConsoleMessageServiceFacade  Console 'key8077089578827679' has a last known change numer of 19, but server current number is 1.
