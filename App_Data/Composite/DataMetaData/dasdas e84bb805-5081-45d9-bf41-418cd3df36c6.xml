@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataTypeDescriptor dataTypeId="e84bb805-5081-45d9-bf41-418cd3df36c6" name="dasdas" namespace="sda" title="sadasd" isCodeGenerated="true" cachable="false" searchable="true" labelFieldName="Name" typeManagerTypeName="sda.dasdas">
+  <DataAssociations />
+  <DataScopes>
+    <DataScopeIdentifier name="public" />
+  </DataScopes>
+  <KeyPropertyNames>
+    <KeyPropertyName name="Id" />
+  </KeyPropertyNames>
+  <SuperInterfaces />
+  <Fields>
+    <DataFieldDescriptor id="92b9cc79-26d1-4474-959c-caf39d948033" name="Id" isNullable="false" position="0" groupByPriority="0" inherited="false" instanceType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='String'Length='22'" isReadOnly="false" defaultValue="ValueType='RandomString'Length='8'CheckCollisions='False'">
+      <FormRenderingProfile label="Id" />
+      <DataUrlProfile Order="0" />
+    </DataFieldDescriptor>
+    <DataFieldDescriptor id="dd010b2b-e86a-4ea3-a6b8-e80b0cfb7b2a" name="Name" isNullable="false" position="0" groupByPriority="0" inherited="false" instanceType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='String'Length='64'" isReadOnly="false" defaultValue="ValueType='String'Value=''">
+      <FormRenderingProfile label="Name" helpText="" widgetFunctionMarkup="&lt;f:widgetfunction xmlns:f=&quot;http://www.composite.net/ns/function/1.0&quot; name=&quot;Composite.Widgets.String.TextBox&quot; /&gt;" />
+    </DataFieldDescriptor>
+  </Fields>
+</DataTypeDescriptor>
