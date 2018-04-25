@@ -1,2 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TaskItemElementsElements />
+<TaskItemElementsElements>
+  <TaskItemElements Id="d7ee4887-6fd2-4afb-8506-400cdb614649" TaskId="2687f0a7-6e94-44be-a2db-595258c1198c" TaskManagerType="Composite.Versioning.ContentVersioning.TaskManager.EditTaskManager,Composite.Versioning.ContentVersioning" SerializedFlowToken="afb5e537-d4c5-436e-ada2-20654d6846da" StartTime="2018-04-25T13:50:31.6298531+02:00" />
+</TaskItemElementsElements>
