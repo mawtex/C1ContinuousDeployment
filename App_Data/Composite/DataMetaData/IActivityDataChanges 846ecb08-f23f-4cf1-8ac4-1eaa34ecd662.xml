@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataTypeDescriptor dataTypeId="846ecb08-f23f-4cf1-8ac4-1eaa34ecd662" name="IActivityDataChanges" namespace="Composite.Versioning.ContentVersioning.Data" isCodeGenerated="false" cachable="false" searchable="false" typeManagerTypeName="Composite.Versioning.ContentVersioning.Data.IActivityDataChanges,Composite.Versioning.ContentVersioning">
+  <DataAssociations />
+  <DataScopes>
+    <DataScopeIdentifier name="administrated" />
+  </DataScopes>
+  <KeyPropertyNames>
+    <KeyPropertyName name="ActivityId" />
+    <KeyPropertyName name="TargetDataSourceId" />
+  </KeyPropertyNames>
+  <SuperInterfaces />
+  <Fields>
+    <DataFieldDescriptor id="81ac9bc2-d30e-4c96-a2da-8c15995ce708" name="ActivityId" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='Guid'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+    <DataFieldDescriptor id="055a4ef7-6bde-470f-8c57-b9c3ef546171" name="TargetDataSourceId" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='String'Length='1024'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+    <DataFieldDescriptor id="b6d55096-9abc-4942-86c0-1f903ecd5bde" name="SerializedData" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='LargeString'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+  </Fields>
+</DataTypeDescriptor>

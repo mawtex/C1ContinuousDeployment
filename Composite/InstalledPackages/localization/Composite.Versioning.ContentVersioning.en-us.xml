@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string key="Composite.Versioning.ContentVersioning.Report.Label" value="Versioning report" />
+	<string key="Composite.Versioning.ContentVersioning.Report.Tooltip" value="Show data changes" />
+	<string key="Composite.Versioning.ContentVersioning.Compare.Label" value="Compare" />
+
+	<string key="ContentModificationLog.Element.Label" value="Content Modification Log" />
+	<string key="ContentModificationLog.ViewAction.Label" value="View Log" />
+	<string key="ContentModificationLog.View.Label" value="Content Modification Log" />
+
+	<string key="Table.HeadingTime" value="Time" />
+	<string key="Table.HeadingUser" value="User" />
+	<string key="Table.HeadingTask" value="Task" />
+	<string key="Table.HeadingType" value="Type" />
+	<string key="Table.HeadingActivity" value="Activity" />
+	<string key="Table.HeadingTitle" value="Title" />
+	<string key="Table.HeadingNew" value="Newer Version" />
+	<string key="Table.HeadingOld" value="Older Version" />
+	<string key="RestoreDialog.Title" value="Restore this version?" />
+	<string key="RestoreDialog.Text" value="Rollback changes and restore selected version?" />
+	<string key="RestoreDeletedDialog.Title" value="Restore this version?" />
+	<string key="RestoreDeletedDialog.Text" value="Restore selected version?" />
+	<string key="CompareDialog.DialogTitle" value="Compare Versions" />
+	<string key="CompareDialog.FieldGroupLabel" value="Compare options" />
+	<string key="CompareDialog.FieldDescLabel" value="Compare selected with" />
+	<string key="CompareDialog.OptionOne" value="Latest version" />
+	<string key="CompareDialog.OptionTwo" value="Other version..." />
+	<string key="CompareDialog.ExitMessage" value="Click OK, then select version from list." />
+	<string key="CompareErrorDialog.Title" value="Invalid selection" />
+	<string key="CompareErrorDialog.Text" value="You have selected a task for comparison. Please select an activity." />
+
+	<string key="DataRestoredDialog.Title" value="Data restored" />
+	<string key="DataRestoredDialog.Text" value="Data restored" />
+	<string key="DataNotRestoredDialog.Title" value="Data not restored" />
+	<string key="DataNotRestoredDialog.Text" value="Data not restored" />
+	<string key="PageRestoredToRootDialog.Title" value="Page restored" />
+	<string key="PageRestoredToRootDialog.Text" value="Page restored to the root" />
+	<string key="PageRestoredDialog.Title" value="Page restored" />
+	<string key="PageRestoredDialog.Text" value="Page restored" />
+	<string key="AlreadyRestoredDialog.Title" value="Already restored" />
+	<string key="AlreadyRestoredDialog.Text" value="Data already restored" />
+
+
+	<string key="ToolbarButton.LabelRefresh" value="Refresh" />
+	<string key="ToolbarButton.LabelView" value="View" />
+	<string key="ToolbarButton.LabelViewFile" value="View file" />
+	<string key="ToolbarButton.LabelViewSettings" value="View settings" />
+	<string key="ToolbarButton.LabelCompare" value="Compare..." />
+	<string key="ToolbarButton.LabelRestore" value="Restore" />
+	<string key="ToolbarButton.ToolTipView" value="View the selected version" />
+	<string key="ToolbarButton.ToolTipViewFile" value="Download file of the selected version" />
+	<string key="ToolbarButton.ToolTipViewSettings" value="View settings of the selected version" />
+	<string key="ToolbarButton.ToolTipCompare" value="Compare changes between versions" />
+	<string key="ToolbarButton.ToolTipRestore" value="Rollback changes to selected version" />
+	<string key="Toolbar.LabelEntries" value="Show entries:" />
+	<string key="ToolbarButton.Export" value="Export to Excel" />
+	<string key="Toolbar.RowsToShow.LabelAll" value="All" />
+
+	<string key="Filter.From" value="From" />
+	<string key="Filter.To" value="To" />
+	<string key="Filter.User" value="User" />
+	<string key="Filter.Task.All" value="All" />
+	<string key="Filter.Type.All" value="All" />
+
+	<string key="Task.Edit" value="Edit" />
+	<string key="Task.Add" value="Add" />
+	<string key="Task.Publish" value="Publish" />
+	<string key="Task.SendForApproval" value="Send For Approval" />
+	<string key="Task.SendForPublication" value="Send For Publication" />
+	<string key="Task.SendToDraft" value="Send To Draft" />
+	<string key="Task.Unpublish" value="Unpublish" />
+	<string key="Task.Rollback" value="Rollback" />
+	<string key="Task.Delete" value="Delete" />
+
+	<string key="Activity.Save" value="Save" />
+	<string key="Activity.Add" value="Add" />
+	<string key="Activity.Delete" value="Delete" />
+</strings>

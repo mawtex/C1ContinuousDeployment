@@ -1,0 +1,97 @@
+﻿20180410 13:33:23.9499 2  8 Information SetupServiceFacade RGB(255, 55, 85) Downloading packages
+20180410 13:33:26.7601 2  8 Information SetupServiceFacade RGB(255, 55, 85) Setting up the system for the first time
+20180410 13:33:27.4795 2  8 Information SetupServiceFacade RGB(255, 55, 85) Creating first locale: en-US
+20180410 13:33:27.6140 2  8 Information SetupServiceFacade RGB(255, 55, 85) Creating first user: admin
+20180410 13:33:28.0240 2  8 Information PackageManagerInstallProcess  Installing package: Base Configuration for C1, Version: 2.0.2, Id = 01292282-3cb3-4d87-851f-da49ef547f8a
+20180410 13:33:28.0453 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:28.0955 2  8 Information PackageManagerInstallProcess  Installing package: Basic Usergroup Configuration for C1, Version: 2.0.1, Id = 9b6b0ea9-1f21-4692-aff8-bc9dd33cabec
+20180410 13:33:28.1436 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:28.1697 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Navigation.LanguageSwitcher.Razor, Version: 2.0.5, Id = e899e5e7-bbeb-40bd-b236-b77102718772
+20180410 13:33:28.1948 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:28.2123 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Navigation.Distributed.Razor, Version: 2.0.1, Id = 8b5441b9-4622-4392-a413-5a8f79c17032
+20180410 13:33:28.2369 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:28.2870 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Css.Less, Version: 1.3.2, Id = b1b27757-a065-41fd-91b0-e8e5f2a0e8d0
+20180410 13:33:34.7122 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:34.7891 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.FontAwesome, Version: 1.0.0, Id = 41a3542b-41fb-4c42-984d-4b92f66b2088
+20180410 13:33:35.1614 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:35.1884 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.BundlingAndMinification, Version: 1.2.1, Id = 83472ca2-e38e-44f3-9d10-8194b23fdee8
+20180410 13:33:35.3926 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:35.4107 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Web.Config.Html5MimeTypes, Version: 1.0.7, Id = 00a9f643-684c-4fec-ae45-2d9d9547d747
+20180410 13:33:35.4355 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:35.7150 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Forms.FormBuilder, Version: 1.3.1, Id = b540f296-420d-44ef-b83e-d067850b2381
+20180410 13:33:37.3695 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:37.5983 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Media.ImageCrop, Version: 1.1.0, Id = 307927b4-600b-45d9-a61a-437d4ffe9ebf
+20180410 13:33:37.8586 2  8 Information Composite.Localization.C1Console.FragmentInstaller  Start fixing Composite.config
+20180410 13:33:37.8687 2  8 Information Composite.Localization.C1Console.FragmentInstaller  Composite.config - fixed..
+20180410 13:33:37.8777 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:38.0067 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Community.Blog, Version: 2.5.2, Id = 303b7865-055b-4fe7-a429-907b32bb6776
+20180410 13:33:40.6049 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:40.6219 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Media.YouTube, Version: 2.0.8, Id = f19a2878-d14d-431c-8f3e-14367b553c82
+20180410 13:33:40.6470 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:40.6721 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Media.ImageGallery.Slimbox2, Version: 1.2.1, Id = e41ec59b-1e4c-42e9-8682-21806ae3072b
+20180410 13:33:40.8292 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:40.9597 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Tools.LinkChecker, Version: 1.0.1, Id = eb94930c-4bdf-478b-b779-6ef617f3aec2
+20180410 13:33:41.1025 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:41.1260 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Search.WebsiteSearch, Version: 1.0.4, Id = 443db04a-af4f-4eda-abdf-41bd052ded91
+20180410 13:33:41.2586 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:41.3739 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Search.LuceneNET, Version: 1.1.8, Id = 62a2e5bd-b54f-4d3c-8dfd-70fbb7902285
+20180410 13:33:42.1294 2  8 Information DllPackageFragmentInstaller  Skipping installation for file '~\bin\ICSharpCode.SharpZipLib.dll' version '0.86.0.518'. An assembly with the same version already exists.
+20180410 13:33:42.2347 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:42.2793 2  8 Information PackageManagerInstallProcess  Installing package: Composite.Lists.Profiles, Version: 1.1.0, Id = 4ddb9a49-3f1b-4f03-a54f-81a64f36f751
+20180410 13:33:44.2576 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.2867 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.GetStyleOptionsFromFile, Version: 1.0.0, Id = 47cd15a3-10ee-4940-b4d0-9791381004bd
+20180410 13:33:44.3358 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.3577 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.ImageAndTextTeaser, Version: 1.0.4, Id = 3ed89811-840d-42de-a118-4345eead2073
+20180410 13:33:44.3932 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.4162 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.StatementTeaser, Version: 1.0.3, Id = 3fff5817-2a8f-4722-88e6-1f174ed81bff
+20180410 13:33:44.4482 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.4673 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.Grid.Columns, Version: 1.0.5, Id = 38fefd63-5db7-41aa-b0cd-2bdf13452aea
+20180410 13:33:44.4944 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.5234 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.TeaserCards, Version: 1.0.6, Id = 3cc59684-bd70-4ce9-a444-b9b102b018fe
+20180410 13:33:44.6186 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.6392 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.LinkButton, Version: 1.0.2, Id = 4d59f41b-92fd-4a51-a164-7731556a85b8
+20180410 13:33:44.6809 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:44.7039 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.Jumbotron, Version: 1.0.2, Id = 40c17ce5-df89-458d-93a9-d09f80b475ec
+20180410 13:33:47.1769 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:47.1989 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.StarterSite.Venus.Templates.Razor, Version: 2.0.2, Id = 1136ef29-1bc5-4aac-94e8-7463ea857eb8
+20180410 13:33:47.2832 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:47.3384 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.StarterSite.Venus.Core, Version: 2.0.9, Id = 65d06d1e-e810-49f4-98c8-4a336936f5cc
+20180410 13:33:50.3302 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:50.4340 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.StarterSite.SampleImages, Version: 2.0.0, Id = e9233fb0-75c3-47f5-9b91-97d4b632826e
+20180410 13:33:50.8208 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:50.8600 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.StarterSite.Venus.Content, Version: 2.0.7, Id = 19e37de4-c106-45d0-a8f2-fa99503dac85
+20180410 13:33:50.9432 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.0174 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.StarterSite.SharedPages, Version: 2.0.4, Id = 6f078485-f7c3-40b2-8960-b075ccfaaaa3
+20180410 13:33:51.2275 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.2626 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.StarterSite.Components, Version: 1.0.5, Id = 12b53b71-a829-4972-b7e8-8ecd8c99841b
+20180410 13:33:51.3770 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.4041 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Search.WebsiteSearch.DefaultContent, Version: 1.0.0, Id = 8f20ae2f-ec3f-4085-b6c8-9a5935745e2b
+20180410 13:33:51.4322 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.4582 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.ImageAndTextTeaser.DefaultContent, Version: 1.0.1, Id = 0507ebc3-f3c8-426b-9d63-2a860175e835
+20180410 13:33:51.4773 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.5094 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.TeaserCards.DefaultContent, Version: 1.0.1, Id = db8c9972-d880-46ab-aebe-1bfa6c3a65d3
+20180410 13:33:51.5384 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.5977 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Lists.Profiles.DefaultContent, Version: 2.0.0, Id = 6e5ca364-0d37-43b6-8549-d17a054d3e4a
+20180410 13:33:51.6907 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.7414 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Community.Blog.DefaultContent, Version: 2.0.3, Id = abb7a0a1-8566-4dce-bcc6-d45894b64255
+20180410 13:33:51.7946 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.8216 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Web.Html.LinkButton.DefaultContent, Version: 1.0.1, Id = 86dd94cb-086d-41d9-9b8b-650db7e9e6b6
+20180410 13:33:51.8437 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.8703 2  8 Information PackageManagerInstallProcess  Installing package: Orckestra.Media.ImageGallery.Slimbox2.DefaultContent, Version: 2.0.1, Id = 3237ff22-6caf-4557-8525-1d6822e3529b
+20180410 13:33:51.8933 2  8 Information PackageManagerInstallProcess  Package successfully installed
+20180410 13:33:51.9513 2  8 Information SetupServiceFacade RGB(255, 55, 85) Done setting up the system for the first time! Enjoy!
+20180410 13:34:15.0620 4  8 Information Orckestra.Search  Indexing document source 'Composite.Data.Types.IPage' for culture 'en-US'
+20180410 13:34:21.2848 4  8 Information Orckestra.Search  34 documents; Completed in 6217 ms
+20180410 13:34:21.2869 4  8 Information Orckestra.Search  Indexing document source 'Composite.Data.Types.IMediaFile' for culture 'en-US'
+20180410 13:34:21.3714 4  8 Information Orckestra.Search  49 documents; Completed in 84 ms
+20180410 13:34:21.3734 4  8 Information Orckestra.Search  Indexing document source 'Composite.Community.Blog.Entries' for culture 'en-US'
+20180410 13:34:21.5556 4  8 Information Orckestra.Search  4 documents; Completed in 181 ms
+20180410 13:34:21.5566 4  8 Information Orckestra.Search  Indexing document source 'Composite.Lists.Profiles.Profile' for culture 'en-US'
+20180410 13:34:21.6470 4  8 Information Orckestra.Search  6 documents; Completed in 90 ms
+20180410 15:44:47.4159 4  5 Information PackageManagerInstallProcess  Installing package: Composite.Versioning.ContentVersioning, Version: 2.6.6, Id = ca49c9e6-a0db-4c77-b4eb-eca60126be4c
+20180410 15:44:49.2915 4  5 Information PackageManagerInstallProcess  Package successfully installed
+20180410 16:01:19.2715 2 17 Information ConsoleMessageServiceFacade  Console 'key7377226785068903' has a last known change numer of 5, but server current number is 1.
+20180410 16:01:19.3006 2 17 Information ConsoleMessageServiceFacade  Console 'key8077089578827679' has a last known change numer of 5, but server current number is 1.
+20180410 16:12:06.5932 2 16 Warning ConsoleFacade  The console 'key8077089578827679' owned by the user 'admin' timed out, closing it
+20180410 18:05:46.1073 8 40 Information ConsoleMessageServiceFacade  Console 'key8077089578827679' has a last known change numer of 18, but server current number is 1.
+20180410 18:05:46.4200 8 31 Information ConsoleMessageServiceFacade  Console 'key7377226785068903' has a last known change numer of 18, but server current number is 1.

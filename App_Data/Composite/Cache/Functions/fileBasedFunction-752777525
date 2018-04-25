@@ -1,0 +1,2 @@
+Composite.Core.Xml.XhtmlDocument,Composite
+Redirects to https url if http connection is not already secured.

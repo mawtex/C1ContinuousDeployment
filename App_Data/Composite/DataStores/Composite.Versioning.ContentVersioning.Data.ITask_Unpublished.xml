@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskElementsElements>
+  <TaskElements TaskTargetId="857891d5-e0a5-4b5d-8cbc-7af2420341d1" Id="01da258d-33f4-4155-991c-e3d3367de526" CultureName="en-US" StartTime="2018-04-10T18:12:05.3784769+02:00" Username="admin" TaskType="Rollback" EndTime="2018-04-10T18:12:09.642498+02:00" />
+  <TaskElements TaskTargetId="6e4e2fb0-6eb6-4c58-a942-80c3c362805b" Id="0bdd2e45-37be-4bff-a542-b73dcc3d2701" CultureName="en-US" StartTime="2018-04-10T16:02:41.189202+02:00" Username="admin" TaskType="Publish" EndTime="2018-04-10T16:02:41.1902051+02:00" />
+  <TaskElements TaskTargetId="05ddb6d9-8db9-4787-a8d0-bbba7a0f6a63" Id="1b01aebb-3cda-41bb-8751-45e8300df15c" CultureName="en-US" StartTime="2018-04-10T16:02:22.1484459+02:00" Username="admin" TaskType="Edit" EndTime="2018-04-10T16:02:27.3116695+02:00" />
+  <TaskElements TaskTargetId="6e4e2fb0-6eb6-4c58-a942-80c3c362805b" Id="1b245221-7800-42eb-a6b4-aadd8b1f90b5" CultureName="en-US" StartTime="2018-04-10T16:04:09.8329257+02:00" Username="admin" TaskType="Delete" EndTime="2018-04-10T16:04:12.4050116+02:00" />
+  <TaskElements TaskTargetId="6e4e2fb0-6eb6-4c58-a942-80c3c362805b" Id="61dd232b-6683-451a-8a2c-f7609ad37a44" CultureName="en-US" StartTime="2018-04-10T16:04:09.8404349+02:00" Username="admin" TaskType="Edit" EndTime="2018-04-10T16:04:12.4060144+02:00" />
+  <TaskElements TaskTargetId="6e4e2fb0-6eb6-4c58-a942-80c3c362805b" Id="64e8d9cf-b168-45bd-a8a1-f3abc5acb046" StartTime="2018-04-10T16:02:22.0712458+02:00" Username="admin" TaskType="Add" CultureName="en-US" EndTime="2018-04-10T16:02:27.2881052+02:00" />
+  <TaskElements TaskTargetId="6e4e2fb0-6eb6-4c58-a942-80c3c362805b" Id="772e344a-53b8-4db4-95cb-e9b7cd84e06c" CultureName="en-US" StartTime="2018-04-10T18:06:22.7661277+02:00" Username="admin" TaskType="Rollback" EndTime="2018-04-10T18:06:22.8313092+02:00" />
+  <TaskElements TaskTargetId="857891d5-e0a5-4b5d-8cbc-7af2420341d1" Id="818f3032-f1f2-46e1-a0cc-c56a6630f605" CultureName="en-US" StartTime="2018-04-10T18:11:17.3476004+02:00" Username="admin" TaskType="Edit" EndTime="2018-04-10T18:11:27.2213201+02:00" />
+  <TaskElements TaskTargetId="857891d5-e0a5-4b5d-8cbc-7af2420341d1" Id="cb7cbaed-b5d3-4f9d-89e8-8e1ccd1c1f0e" CultureName="en-US" StartTime="2018-04-10T18:06:58.999273+02:00" Username="admin" TaskType="Rollback" EndTime="2018-04-10T18:06:59.0103078+02:00" />
+  <TaskElements TaskTargetId="857891d5-e0a5-4b5d-8cbc-7af2420341d1" Id="cbcd3119-15dd-424d-ad0d-94ef1631ebc9" CultureName="en-US" StartTime="2018-04-10T18:06:37.6376414+02:00" Username="admin" TaskType="Delete" EndTime="2018-04-10T18:06:40.5452468+02:00" />
+  <TaskElements TaskTargetId="6e4e2fb0-6eb6-4c58-a942-80c3c362805b" Id="cbddcefd-5ddf-4c4b-a349-5057441f238f" CultureName="en-US" StartTime="2018-04-10T16:02:26.9507096+02:00" Username="admin" TaskType="Edit" EndTime="2018-04-10T16:04:06.9882828+02:00" />
+</TaskElementsElements>

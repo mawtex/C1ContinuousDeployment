@@ -1,0 +1,103 @@
+@namespace url("http://www.w3.org/1999/xhtml");
+@namespace ui url("http://www.w3.org/1999/xhtml");
+
+ui|scrollbox#scrollbox {
+	background-color: white;
+	overflow-y: scroll !important;
+}
+table.compare {
+	border-collapse: collapse;
+	table-layout: fixed;
+	width: 100%;
+}
+td.prop,
+th.prop {
+	width: 260px;
+	padding-left: 10px !important;
+}
+table.compare td.prop,
+table.compare td.value,
+table.compare th.prop,
+table.compare th.value,
+table.compare caption {
+	padding: 6px 0 6px 0;
+	white-space: nowrap;
+	overflow: hidden;
+	text-align: left;
+	-moz-user-select: none;
+}
+table.compare td.value {
+	white-space: normal;
+	padding-right: 20px;
+}
+table.compare th.prop,
+table.compare th.value {
+	background-color: ThreeDFace;
+	border-bottom: 1px solid ThreeDShadow;
+	border-top: 1px solid ThreeDHighlight;
+	#moz border-top-width: 2px;
+	font-weight: normal;
+}
+table.compare tr.diff td.prop,
+table.compare tr.diff td.value {
+	background-color: InfoBackground;
+	color: InfoText;	
+}
+table.compare td.prop,
+table.compare td.value {
+	vertical-align: top;
+	border-bottom: 1px solid ThreeDLightShadow;
+}
+table.compare caption {
+	background-color: ThreeDFace;
+	border-bottom: 1px solid ThreeDShadow;
+	border-top: 1px solid ThreeDHighlight;
+	font-weight: bold;
+	padding-left: 10px !important;
+	/*
+	 * IE has a font-size problem around here...
+	 */
+	#region default
+	 	font-size: 11px;
+	#endregion
+	#region vista
+ 		font-size: 12px;
+	#endregion
+	#region osx
+ 		font-size: 11px;
+	#endregion
+}
+table.compare strike {
+	color: GrayText;
+}
+table.compare ui|clickbutton {
+	 background-color: ThreeDFace;
+}
+table.compare ui|clickbutton table.matrix td.c {
+	padding: 0px 4px 2px 1px;
+	/* TODO: NON-VISTA PADDING */
+}
+table.compare a.compare {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+	#ie cursor: hand;
+}
+
+span.type1,
+span.type2 {
+	background-color: $(color:infobackground);
+	color: $(color:infotext);
+	display: block;
+}
+span.type1 em {
+	color: $(color:graytext);
+	text-decoration: line-through;
+}
+span.type2 em {
+	 font-weight: bold;
+}
+
+div.print {
+	display: none;
+}

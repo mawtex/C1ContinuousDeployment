@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataTypeDescriptor dataTypeId="ae3b3d7a-8fe3-4eff-b6bb-1769afaeb101" name="ITaskTarget" namespace="Composite.Versioning.ContentVersioning.Data" isCodeGenerated="false" cachable="false" searchable="false" typeManagerTypeName="Composite.Versioning.ContentVersioning.Data.ITaskTarget,Composite.Versioning.ContentVersioning">
+  <DataAssociations />
+  <DataScopes>
+    <DataScopeIdentifier name="administrated" />
+  </DataScopes>
+  <KeyPropertyNames>
+    <KeyPropertyName name="Id" />
+  </KeyPropertyNames>
+  <SuperInterfaces />
+  <Fields>
+    <DataFieldDescriptor id="3180a0cc-8443-4bb8-a54e-0e151575862f" name="Id" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='Guid'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+    <DataFieldDescriptor id="1a981853-f03b-476f-a337-8a64c971f8a8" name="TargetDataSourceId" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='String'Length='1024'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+  </Fields>
+</DataTypeDescriptor>

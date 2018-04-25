@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageInstaller xmlns="http://www.composite.net/ns/management/packageinstaller/1.0">
+  <PackageFragmentUninstallers>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.PackageLicenseFragmentUninstaller,Composite" />
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.ConfigurationTransformationPackageFragmentUninstaller,Composite">
+      <Uninstall xsltFilePath="~\Composite.config\Uninstall.xsl" xmlns="" />
+    </Add>
+    <Add uninstallerType="Composite.Core.PackageSystem.PackageFragmentInstallers.FilePackageFragmentUninstaller,Composite">
+      <Files xmlns="">
+        <File filename="~\Composite\InstalledPackages\localization\Composite.Versioning.ContentVersioning.en-us.xml" />
+        <File filename="~\App_Data\Composite\TreeDefinitions\Composite.Versioning.ContentVersioning.xml" />
+        <File filename="~\Bin\Composite.Versioning.ContentVersioning.dll" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/ComparePageBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/LogTableBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/LogTitleBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/LogToolbarBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/ReportLabelBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/ReportTableBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\bindings/ReportToolbarBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\compare.aspx" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\compare.aspx.cs" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\compare.css" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\compare.xslt" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\dialogs/CompareDialogPageBinding.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\dialogs/dialogcompare.aspx" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\logs.aspx" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\logs.aspx.cs" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\logs.css" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\print.css" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\report.aspx" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\report.aspx.cs" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\report.css" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\report.js" />
+        <File filename="~\Composite\InstalledPackages\content\views\Composite.Versioning.ContentVersioning\report.xslt" />
+        <File filename="~\Composite\InstalledPackages\services\Composite.Versioning.ContentVersioning\ViewFile.ashx" />
+      </Files>
+    </Add>
+  </PackageFragmentUninstallers>
+</PackageInstaller>

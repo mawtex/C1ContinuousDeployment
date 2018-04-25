@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataTypeDescriptor dataTypeId="af5fc8c7-752b-4fa8-9122-c9484647877e" name="IDataChanges" namespace="Composite.Versioning.ContentVersioning.Data" isCodeGenerated="false" cachable="false" searchable="false" typeManagerTypeName="Composite.Versioning.ContentVersioning.Data.IDataChanges,Composite.Versioning.ContentVersioning">
+  <DataAssociations />
+  <DataScopes>
+    <DataScopeIdentifier name="administrated" />
+  </DataScopes>
+  <KeyPropertyNames>
+    <KeyPropertyName name="ActivityId" />
+    <KeyPropertyName name="TargetId" />
+  </KeyPropertyNames>
+  <SuperInterfaces />
+  <Fields>
+    <DataFieldDescriptor id="e2bd3c1c-1e23-4790-97df-9cde549fb3cc" name="ActivityId" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='Guid'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+    <DataFieldDescriptor id="3e550407-e1b1-47b4-acc1-22524628b9a5" name="TargetId" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='Guid'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+    <DataFieldDescriptor id="cbec52b2-6de7-4762-8495-b1977e294961" name="SerializedData" isNullable="false" position="1000" groupByPriority="0" inherited="false" instanceType="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" storeType="PhysicalStoreType='LargeString'" isReadOnly="false">
+      <FormRenderingProfile />
+    </DataFieldDescriptor>
+  </Fields>
+  <Indexes>
+    <Index>
+      <Fields>
+        <Field name="TargetId" direction="Ascending" />
+      </Fields>
+    </Index>
+  </Indexes>
+</DataTypeDescriptor>

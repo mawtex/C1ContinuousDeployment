@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserElementsElements>
+  <UserElements Id="ba7159e6-e29f-4d4a-b826-52629b8161bb" Username="admin" Email="test@test.com" IsLocked="false" LockoutReason="0" LastPasswordChangeDate="0001-01-01T00:00:00" />
+</UserElementsElements>
