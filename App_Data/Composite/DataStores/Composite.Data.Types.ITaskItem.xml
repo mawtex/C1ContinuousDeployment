@@ -1,4 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <TaskItemElementsElements>
+  <TaskItemElements Id="775ff6b1-a835-4e49-a605-af3dbfcc2312" TaskId="bf95ec68-3266-4b51-ba6d-f2f45040de9f" TaskManagerType="Composite.Versioning.ContentVersioning.TaskManager.EditTaskManager,Composite.Versioning.ContentVersioning" SerializedFlowToken="2426d868-1158-4480-985f-14a67f2c5af9" StartTime="2018-04-25T14:20:43.3981698+02:00" />
   <TaskItemElements Id="d7ee4887-6fd2-4afb-8506-400cdb614649" TaskId="2687f0a7-6e94-44be-a2db-595258c1198c" TaskManagerType="Composite.Versioning.ContentVersioning.TaskManager.EditTaskManager,Composite.Versioning.ContentVersioning" SerializedFlowToken="afb5e537-d4c5-436e-ada2-20654d6846da" StartTime="2018-04-25T13:50:31.6298531+02:00" />
 </TaskItemElementsElements>
