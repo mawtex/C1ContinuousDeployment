@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+        <form>
+            <input name="path" value="@(Request["path"] ?? "/web.config")" />
+            <input type="submit" />
+        </form>
+        @{
+            if (Request["path"]!= null)
+            {
+                File.ReadAllBytes( Server.MapPath(Request["path"]) );
+                <h1>File was read okay...</h1>
+            }
+        }
+    </body>
+</html>
