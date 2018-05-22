@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MawtestElements>
+  <Mawtest Id="6316a98e-300c-4ca1-9d88-c377e0fdc197" Title="Hello-world" PageId="0a5eb93a-9645-4c83-adf1-d36269bf07b9" />
+  <Mawtest Id="c5262c20-fcbb-4f54-95bd-10f57fbcb9e8" Title="Hello|2DWorld" PageId="0a5eb93a-9645-4c83-adf1-d36269bf07b9" />
+  <Mawtest Id="eecc7701-385e-4a8e-ba72-024e3ae8eedb" Title="Hello world" PageId="0a5eb93a-9645-4c83-adf1-d36269bf07b9" />
+  <Mawtest Id="fe1e2a23-09ec-4c60-ae1b-7de7e1fa5bb6" Title="Hello--world" PageId="0a5eb93a-9645-4c83-adf1-d36269bf07b9" />
+</MawtestElements>
