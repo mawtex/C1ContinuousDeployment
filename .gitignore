@@ -1,7 +1,7 @@
-
-App_Data/Composite/ApplicationState/
-App_Data/Composite/Cache/
-App_Data/Composite/LogFiles/
-App_Data/Search/
-App_Data/Composite/DataStores/Composite.Data.Types.IFlowInformation.xml
-Composite.Data.Types.IUserConsoleInformation.xml
+*
+/App_Data/Composite/ApplicationState/
+/App_Data/Composite/Cache/
+/App_Data/Composite/LogFiles/
+/App_Data/Search/
+/App_Data/Composite/DataStores/Composite.Data.Types.IFlowInformation.xml
+/App_Data/Composite/DataStores/Composite.Data.Types.IUserConsoleInformation.xml
