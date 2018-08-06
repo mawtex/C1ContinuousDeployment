@@ -1,3 +1,4 @@
+/.vs/*
 /App_Data/Composite/ApplicationState/
 /App_Data/Composite/Cache/
 /App_Data/Composite/LogFiles/
