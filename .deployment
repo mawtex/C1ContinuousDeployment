@@ -1,2 +1,4 @@
 [config]
 SCM_BUILD_ARGS=-p:PublishProfile=Debug
+
+COMMAND=deploy.cmd

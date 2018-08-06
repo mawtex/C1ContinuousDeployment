@@ -1,0 +1,1 @@
+copy web.debug.config web.config
