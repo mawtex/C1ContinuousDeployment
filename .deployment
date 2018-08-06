@@ -1,2 +1,2 @@
 [config]
-SCM_BUILD_ARGS=-t:Clean;Compile
+SCM_BUILD_ARGS=-p:PublishProfile=Debug
