@@ -1,1 +1,1 @@
-copy web.debug.config web.config
+copy %DEPLOYMENT_SOURCE%\web.debug.config %DEPLOYMENT_TARGET%\web.config /Y
