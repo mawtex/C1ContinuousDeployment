@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C1ContinuousDeployment", "http://localhost:39652", "{4E6ACD77-CDE4-41C0-B99F-9913A68AED72}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_39652"
+		Debug.AspNetCompiler.PhysicalPath = "..\C1ContinuousDeployment\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_39652\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_39652"
+		Release.AspNetCompiler.PhysicalPath = "..\C1ContinuousDeployment\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_39652\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\C1ContinuousDeployment\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6ACD77-CDE4-41C0-B99F-9913A68AED72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6ACD77-CDE4-41C0-B99F-9913A68AED72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6ACD77-CDE4-41C0-B99F-9913A68AED72}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6ACD77-CDE4-41C0-B99F-9913A68AED72}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7602D18B-2052-45DF-AED0-7D7038D1ADDA}
+	EndGlobalSection
+EndGlobal
